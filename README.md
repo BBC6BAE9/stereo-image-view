@@ -1,2 +1,7 @@
 # stereo-3d-image-view
-Stereo 3d image view for visionOS
+
+Automatically convert 2D image into stereoscopic 3D image.
+
+
+
+

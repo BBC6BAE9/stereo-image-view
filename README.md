@@ -1,2 +1,2 @@
-# stereo-image-view
-Stereo image view for visionOS
+# stereo-3d-image-view
+Stereo 3d image view for visionOS
